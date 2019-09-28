@@ -12,7 +12,7 @@ Run the below node application in the command prompt/terminal <br>
 [node application](WebsocketExample/index.js)
 
 Server will start at: <br>
-http://localhost:8080/
+http://localhost:4000/
 
 Open the application in different browser tabs and start chatting ;) <br>
 **Have fun!!**
